@@ -1,29 +1,29 @@
-P,StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,group,Q57,correct,sound solution,issue_number
-,Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,,Which of the following skills do you think you need to solve this issue?,,,
-,"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}",,"{""ImportId"":""QID102""}",,,
-P0,10/6/22 15:01,10/6/22 16:22,IP Address,134.114.101.49,100,4896,TRUE,10/6/22 16:22,R_2Vjy0uinQde0zjf,,,,,351.872,-1.116.596,anonymous,EN,Control,,0,0,5679
-P1,10/14/22 11:13,10/14/22 12:17,IP Address,76.174.176.43,100,3841,TRUE,10/14/22 12:17,R_3qDz5dSBkoy0g39,,,,,339.705,-1.184.308,anonymous,EN,Treatment,,1,1,5485
-P2,10/18/22 15:56,10/18/22 17:11,IP Address,134.114.101.51,100,4479,TRUE,10/18/22 17:11,R_31SLYqNzUZ8b41j,,,,,351.872,-1.116.596,anonymous,EN,Control,,0,0,4612
-P3,10/18/22 17:12,10/18/22 18:11,IP Address,134.114.101.51,100,3511,TRUE,10/18/22 18:11,R_3dRL71BWQjWRGrY,,,,,351.872,-1.116.596,anonymous,EN,Treatment,,0,1,5194
-P4,10/20/22 13:19,10/20/22 15:23,IP Address,134.114.101.50,100,7488,TRUE,10/20/22 15:23,R_2ZQhv37EAvccQJa,,,,,351.872,-1.116.596,anonymous,EN,Control,"User Interface (UI),Testing",0,0,4612
-P5,10/20/22 16:12,10/20/22 17:04,IP Address,134.114.101.50,100,3120,TRUE,10/20/22 17:04,R_3oLwQInqRH3U7YX,,,,,351.872,-1.116.596,anonymous,EN,Treatment,"User Interface (UI),Testing,Network Development,Input and Output",0,1,5069
-P6,10/20/22 18:20,10/21/22 14:25,IP Address,107.77.230.39,100,72301,TRUE,10/21/22 14:25,R_BYal1T7rEK4ltUB,,,,,341.004,-1.182.946,anonymous,EN,Control,"Testing,Google Common",0,0,5485
-P7,10/21/22 14:30,10/21/22 18:21,IP Address,134.114.101.52,100,13861,TRUE,10/21/22 18:21,R_115TP9QJM6Yqsrq,,,,,351.872,-1.116.596,anonymous,EN,Treatment,"Logging,Testing,Input and Output",0,1,5485
-P8,10/22/22 11:17,10/25/22 18:17,IP Address,134.114.101.51,100,284384,TRUE,10/25/22 18:17,R_2zNKcfVhvxRczWf,,,,,351.872,-1.116.596,anonymous,EN,Treatment,"User Interface (UI),Logging,Testing,Input and Output",1,1,5485
-P9,10/27/22 16:05,10/27/22 17:19,IP Address,134.114.101.51,100,4487,TRUE,10/27/22 17:19,R_1OGBpURBy94DDnB,,,,,351.872,-1.116.596,anonymous,EN,Control,"User Interface (UI),Testing",0,1,5069
-P10,11/1/22 13:57,11/1/22 17:17,IP Address,134.114.101.49,100,12001,TRUE,11/1/22 17:17,R_2OZ6sYdSgZpAvVG,,,,,351.872,-1.116.596,anonymous,EN,Control,"User Interface (UI),Testing,Network Development",0,0,4612
-P11,11/1/22 18:00,11/1/22 19:06,IP Address,134.114.101.49,100,3975,TRUE,11/1/22 19:06,R_1mJJup3rJEEb0mF,,,,,351.872,-1.116.596,anonymous,EN,Treatment,"User Interface (UI),Logging,Testing,Input and Output",0,1,5069
-P12,11/1/22 19:08,11/3/22 15:08,IP Address,134.114.101.51,100,158434,TRUE,11/3/22 15:08,R_2bTvIJb03tVa0EH,,,,,351.872,-1.116.596,anonymous,EN,Treatment,"Logging,Input and Output",0,1,5679
-P13,11/4/22 15:59,11/4/22 17:11,IP Address,134.114.101.49,100,4312,TRUE,11/4/22 17:11,R_3NPsBIGs8IZTzCd,,,,,351.872,-1.116.596,anonymous,EN,Control,"Testing,Input and Output",0,0,5485
-P14,11/10/22 13:00,11/10/22 14:28,IP Address,134.114.101.49,100,5258,TRUE,11/10/22 14:28,R_szXHV76sfyugGZP,,,,,351.872,-1.116.596,anonymous,EN,Control,"Testing,Input and Output",0,1,5069
-P15,11/23/23 8:53,11/23/23 11:07,IP Address,68.2.107.75,100,8048,TRUE,11/23/23 11:07,R_r3zuJXRMfAXMhwd,,,,,334.935,-1.119.211,anonymous,EN,Treatment,"User Interface (UI),Input and Output",0,0,5194
-P16,12/9/23 9:01,12/9/23 10:53,IP Address,68.2.107.75,100,6731,TRUE,12/9/23 10:53,R_vAhCoDpCpXELiSZ,,,,,334.935,-1.119.211,anonymous,EN,Treatment,"User Interface (UI),Network Development,Input and Output",0,0,5069
-P17,12/9/23 17:16,12/9/23 20:24,IP Address,68.2.107.75,100,11265,TRUE,12/9/23 20:24,R_1cY2aaiebkL0OFA,,,,,334.935,-1.119.211,anonymous,EN,Control,"User Interface (UI),Testing,Input and Output",0,0,5194
-P18,1/16/24 17:04,1/16/24 17:39,IP Address,137.152.185.6,100,2097,TRUE,1/16/24 17:39,R_7gR3xiXp1Nk8qD7,,,,,335.141,-1.121.235,anonymous,EN,Control,"Logging,Testing",0,0,5679
-P19,1/17/24 17:09,1/17/24 17:57,IP Address,137.152.185.6,100,2877,TRUE,1/17/24 17:57,R_7pGzgrYBEmBCmLW,,,,,335.141,-1.121.235,anonymous,EN,Treatment,"Google Common,Input and Output",1,1,5485
-P20,1/19/24 15:04,1/19/24 15:50,IP Address,137.152.185.6,100,2766,TRUE,1/19/24 15:50,R_7dy5fFjZNNIPGzs,,,,,335.141,-1.121.235,anonymous,EN,Control,Input and Output,1,1,5485
-P21,1/21/24 15:24,1/21/24 16:53,IP Address,97.124.12.110,100,5374,TRUE,1/21/24 16:53,R_3MItxyF2loCjx3X,,,,,332.421,-1.116.412,anonymous,EN,Treatment,"User Interface (UI),Logging,Testing,Network Development",0,1,4612
-P22,3/16/24 19:18,3/16/24 20:55,IP Address,157.56.166.1,100,5830,TRUE,3/16/24 20:55,R_50MMwOcBNLSqztx,,,,,371.835,-1.217.714,anonymous,EN,Control,"Logging,Testing,Network Development",1,1,5485
-P23,3/30/24 15:55,3/30/24 17:05,IP Address,157.56.166.1,100,4159,TRUE,3/30/24 17:05,R_1NOowhdc33vavqW,,,,,371.835,-1.217.714,anonymous,EN,Control,"User Interface (UI),Testing",1,1,5485
-P24,5/5/24 18:14,5/5/24 18:58,IP Address,157.56.166.1,100,2642,TRUE,5/5/24 18:58,R_7UVL0tgOuPNt6ko,,,,,371.835,-1.217.714,anonymous,EN,Treatment,"Logging,Testing,Network Development",1,1,5485
-P25,5/22/24 20:02,5/22/24 21:35,IP Address,157.56.166.1,100,5597,TRUE,5/22/24 21:35,R_34IP9yBTsTgC3sk,,,,,371.835,-1.217.714,anonymous,EN,Treatment,"Logging,Google Common,Input and Output",1,1,5194
+P,DistributionChannel,group,Q57,correct,sound solution,issue_number
+,Distribution Channel,,Which of the following skills do you think you need to solve this issue?,,,
+,"{""ImportId"":""distributionChannel""}",,"{""ImportId"":""QID102""}",,,
+P0,anonymous,Control,,0,0,5679
+P1,anonymous,Treatment,,1,1,5485
+P2,anonymous,Control,,0,0,4612
+P3,anonymous,Treatment,,0,1,5194
+P4,anonymous,Control,"User Interface (UI),Testing",0,0,4612
+P5,anonymous,Treatment,"User Interface (UI),Testing,Network Development,Input and Output",0,1,5069
+P6,anonymous,Control,"Testing,Google Common",0,0,5485
+P7,anonymous,Treatment,"Logging,Testing,Input and Output",0,1,5485
+P8,anonymous,Treatment,"User Interface (UI),Logging,Testing,Input and Output",1,1,5485
+P9,anonymous,Control,"User Interface (UI),Testing",0,1,5069
+P10,anonymous,Control,"User Interface (UI),Testing,Network Development",0,0,4612
+P11,anonymous,Treatment,"User Interface (UI),Logging,Testing,Input and Output",0,1,5069
+P12,anonymous,Treatment,"Logging,Input and Output",0,1,5679
+P13,anonymous,Control,"Testing,Input and Output",0,0,5485
+P14,anonymous,Control,"Testing,Input and Output",0,1,5069
+P15,anonymous,Treatment,"User Interface (UI),Input and Output",0,0,5194
+P16,anonymous,Treatment,"User Interface (UI),Network Development,Input and Output",0,0,5069
+P17,anonymous,Control,"User Interface (UI),Testing,Input and Output",0,0,5194
+P18,anonymous,Control,"Logging,Testing",0,0,5679
+P19,anonymous,Treatment,"Google Common,Input and Output",1,1,5485
+P20,anonymous,Control,Input and Output,1,1,5485
+P21,anonymous,Treatment,"User Interface (UI),Logging,Testing,Network Development",0,1,4612
+P22,anonymous,Control,"Logging,Testing,Network Development",1,1,5485
+P23,anonymous,Control,"User Interface (UI),Testing",1,1,5485
+P24,anonymous,Treatment,"Logging,Testing,Network Development",1,1,5485
+P25,anonymous,Treatment,"Logging,Google Common,Input and Output",1,1,5194
